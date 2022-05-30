@@ -2,9 +2,9 @@
   "settings":{
     "ImagesBaseUrl":"https://raw.githubusercontent.com/mustaphadev/trytry/kjhkjhf/imgs",
     "PreviewsBaseUrl":"https://raw.githubusercontent.com/mustaphadev/trytry/kjhkjhf/previews",
-    "AdmobAppId":"ca-app-pub-3940256099942544~3347511713",
-    "AdmobBannerAdId":"ca-app-pub-3940256099942544/6300978111",
-    "AdmobInterstitialAdId":"ca-app-pub-3940256099942544/1033173712"
+    "AdmobAppId":"ca-app-pub-6841670917459367~7970141080",
+    "AdmobBannerAdId":"ca-app-pub-6841670917459367/6876535358",
+    "AdmobInterstitialAdId":"ca-app-pub-6841670917459367/6489538457"
   },
   "images":[
     "1.jpg",
